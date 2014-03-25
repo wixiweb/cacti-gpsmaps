@@ -1,0 +1,17 @@
+Do not remove these base icons.
+Green
+Orange
+Red
+Black
+These colors are hard coded in to provide minimal functionality.
+
+If you are adding custom icons the file name must not contain any thing other than
+alpha numeric characters 0-9 aA-zZ.  No spaces( ) dashes(-) etc.  
+
+Currently accepted icon files are:
+png
+jpg
+jpeg
+gif
+
+If you wish to add other formats. looking gpstemplates.php line 340 to add more.
